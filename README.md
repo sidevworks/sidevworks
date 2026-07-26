@@ -6,7 +6,7 @@ I'm a self-taught AI Systems Architect and Developer based in Bahrain 🇧🇭. 
 
 ### 🚀 What I'm Building
 
-* **[ARIA (Autonomous Resilience Intelligence Architecture)](https://github.com/saryismail/aria)**  
+* **[ARIA (Autonomous Resilience Intelligence Architecture)](https://github.com/saryismail/aria-sec)**  
   *A voice-native, 3D spatial command interface for AI Security Operations.*  
   Built with React 19, Three.js WebGL, Electron, and a governed autonomy "Trust Ladder" reasoning engine. Supports local sovereign models (Qwen/Ollama) & cloud APIs.
 
