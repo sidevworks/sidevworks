@@ -14,6 +14,9 @@ I'm a self-taught AI Systems Architect and Developer based in Bahrain 🇧🇭. 
   *A unified multi-model AI workspace & productivity engine.*  
   Integrates GPT, Claude, Gemini, DeepSeek, and real-time WebRTC voice pipelines. (20k+ visitors, 3k+ MAUs across iOS, Android & Mac).
 
+- **[FileConvertStudio](https://fileconvertstudio.com)**  
+  *A privacy-focused desktop file conversion suite.*  
+  Converts documents and media locally, keeping sensitive files off third-party servers.
 ---
 
 ### 🛠️ Tech Stack & Capabilities
@@ -28,5 +31,5 @@ I'm a self-taught AI Systems Architect and Developer based in Bahrain 🇧🇭. 
 ### 📈 Philosophy
 > *"The best way to predict the future of software interfaces is to break the current rules and build them yourself."*
 
-- 📬 **Reach Me:** sary@asksary.com
-- 🌐 **Website:** [aria-sec.com](https://aria-sec.com) | [asksary.com](https://asksary.com)
+- 📬 **Reach Me:** me@saryismail.com
+- 🌐 **Website:** [aria-sec.com](https://aria-sec.com) | [asksary.com](https://asksary.com) | [fileconvertstudio.com](https://fileconvertstudio.com)
