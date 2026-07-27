@@ -12,7 +12,7 @@ I'm a self-taught AI Systems Architect and Developer based in Bahrain 🇧🇭. 
 
 * **[AskSary](https://asksary.com)**  
   *A unified multi-model AI workspace & productivity engine.*  
-  Integrates GPT, Claude, Gemini, DeepSeek, and real-time WebRTC voice pipelines. (20k+ visitors, 3k+ MAUs across iOS, Android & Mac).
+  Integrates GPT, Claude, Gemini, DeepSeek, and real-time WebRTC voice pipelines. (Reached 19k+ tracked users, nearly 3k registered accounts, and 3.2k users in a 30-day period across iOS, Android & Web).
 
 - **[FileConvertStudio](https://fileconvertstudio.com)**  
   *A privacy-focused desktop file conversion suite.*  
