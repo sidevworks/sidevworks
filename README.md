@@ -1,35 +1,51 @@
 # Hi, I'm Sary Ismail 👋
 
-I'm a self-taught AI Systems Architect and Developer based in Bahrain 🇧🇭. I build high-performance AI interfaces, multi-model orchestration engines, and governed autonomous systems.
+Self-taught AI systems architect and solo founder of **SI Enterprise Labs**, building from Bahrain 🇧🇭.
+I build AI products people actually use: a workspace to create with AI, an agent that operates your computer, and the infrastructure that keeps both trustworthy.
+
+> **Sary-OS to create. Ari to operate.**
 
 ---
 
-### 🚀 What I'm Building
+### 🚀 What I'm building
 
-* **[ARIA (Autonomous Resilience Intelligence Architecture)](https://github.com/sidevworks/aria-sec)**  
-  *A voice-native, 3D spatial command interface for AI Security Operations.*  
-  Built with React 19, Three.js WebGL, Electron, and a governed autonomy "Trust Ladder" reasoning engine. Supports local sovereign models (Qwen/Ollama) & cloud APIs.
+**[Sary-OS](https://sary-os.com)** (formerly AskSary)
+*Where people build with AI.*
+One workspace for Anthropic, OpenAI, Google, xAI and more, with bring-your-own-key in a sealed vault. Model runs keep going when the tab closes and pick up on any device. On the web, a Mac app, and Sary-OS Lite for phones.
+**9,281 registered users**, about 43% in the Gulf.
 
-* **[AskSary](https://asksary.com)**  
-  *A unified multi-model AI workspace & productivity engine.*  
-  Integrates GPT, Claude, Gemini, DeepSeek, and real-time WebRTC voice pipelines. (Reached 19k+ tracked users, nearly 3k registered accounts, and 3.2k users in a 30-day period across iOS, Android & Web).
+**[Ari + LiveLoop](https://github.com/sidevworks/ari-liveloop)**
+*An AI operator for the Mac.*
+Ari works in your real apps, files and browser while you supervise and approve, with a phone remote, a secretary, and a CCTV-style record of everything it does. LiveLoop lets you and a model change an app **while it keeps running**. Swift + Node + Firebase; Touch ID and Secure Enclave for anything sensitive.
 
-- **[FileConvertStudio](https://fileconvertstudio.com)**  
-  *A privacy-focused desktop file conversion suite.*  
-  Converts documents and media locally, keeping sensitive files off third-party servers.
+**[ARIA](https://github.com/sidevworks/aria-sec)** · [aria-sec.com](https://aria-sec.com)
+*Voice-native 3D security operations with governed autonomy.*
+A SOC cockpit you talk to, where every autonomous capability has to earn its authority through measured outcomes (the "Trust Ladder"). React 19, Three.js, Electron; runs on local sovereign models or cloud APIs.
+
+**[After Genesis](https://github.com/sidevworks/after-genesis)** · [live](https://after-genesis.vercel.app)
+*A persistent virtual world for sealed, auditable AI-inhabitant experiments.*
+Ten founding inhabitants, no human intervention after Genesis. The LLM proposes intentions; a deterministic world engine decides reality.
+
+**[BoxLite](https://github.com/sidevworks/boxlite)** (contributor)
+*The micro-VM for AI agents.* Working on a native Windows CLI for [boxlite.ai](https://boxlite.ai), and the sandbox Ari runs agents in.
+
+**[FileConvert Studio](https://fileconvertstudio.com)**
+*Private, on-device file conversion.* Video, audio, image and document conversion that never leaves your machine.
+
 ---
 
-### 🛠️ Tech Stack & Capabilities
+### 🛠️ Tech stack
 
-- **AI & Orchestration:** Multi-Model Routing, Local Sovereign Models (Qwen, Ollama, vLLM), WebRTC Voice, RAG Vector Stores, Function Calling.
-- **Frontend & Spatial UX:** React 19, Three.js (WebGL), Electron, Tailwind CSS, Vite.
-- **Backend & Systems:** Node.js, WebSockets, REST APIs, Local In-Process Audio/STT, Docker.
-- **Architecture Focus:** Governed Autonomy, Air-Gapped/On-Prem Security, BSL 1.1 Source-Available Systems.
+- **AI & agents:** multi-model routing, tool/function calling, MCP, agent sandboxes (micro-VMs), realtime voice (WebRTC, ElevenLabs, Twilio), RAG, local models (Qwen, Ollama, vLLM)
+- **Apps:** Swift / SwiftUI (macOS & iOS, App Store), Electron, React 19, Three.js / WebGL, Vite, Tailwind
+- **Backend:** Node.js, Firebase (Functions, Firestore, Auth), Vercel, AWS, WebSockets, Docker
+- **Focus:** governed autonomy, human-in-the-loop approval, auditability, on-prem and air-gapped deployment, source-available licensing (BSL 1.1)
 
 ---
 
-### 📈 Philosophy
+### 📬 Reach me
+
+- ✉️ me@saryismail.com
+- 🌐 [sary-os.com](https://sary-os.com) · [sienterpriselabs.com](https://sienterpriselabs.com) · [aria-sec.com](https://aria-sec.com) · [fileconvertstudio.com](https://fileconvertstudio.com)
+
 > *"The best way to predict the future of software interfaces is to break the current rules and build them yourself."*
-
-- 📬 **Reach Me:** me@saryismail.com
-- 🌐 **Website:** [aria-sec.com](https://aria-sec.com) | [asksary.com](https://asksary.com) | [fileconvertstudio.com](https://fileconvertstudio.com)
