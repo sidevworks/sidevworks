@@ -45,7 +45,7 @@ Ten founding inhabitants, no human intervention after Genesis. The LLM proposes 
 
 ### 📬 Reach me
 
-- ✉️ me@saryismail.com
+- ✉️ sary@sienterpriselabs.com
 - 🌐 [sary-os.com](https://sary-os.com) · [sienterpriselabs.com](https://sienterpriselabs.com) · [aria-sec.com](https://aria-sec.com) · [fileconvertstudio.com](https://fileconvertstudio.com)
 
 > *"The best way to predict the future of software interfaces is to break the current rules and build them yourself."*
